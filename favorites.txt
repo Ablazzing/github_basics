@@ -1,3 +1,6 @@
 chicken
 pizza
 potato
+matrix
+blade
+the king
